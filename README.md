@@ -4,7 +4,10 @@ Prerequisite:
 =============
 Go binary needs to be installed and path needs to be added in environment variable
 
+Steps to Build:
+===============
+go <filename.go>
+
 Steps to run:
 =============
-go <filename.go>
 ./filename <args>
